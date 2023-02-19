@@ -4,6 +4,10 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/* main - prints if the number is positive, zero or negative
+ *Return: Always (Success)
+ *
+ */
 int main(void)
 {
 int n;
